@@ -30,7 +30,7 @@
         </dict>
         <dict>
             <key>match</key>
-            <string>(\^|&|~)</string>
+            <string>(\^|&amp;|~)</string>
             <key>name</key>
             <string>string.other.hl7</string>
         </dict>
